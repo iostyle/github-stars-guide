@@ -10,12 +10,16 @@ This repository contains practical advice, strategies, and actionable steps to h
 
 ## Contents
 
-- [Why Stars Matter](#why-stars-matter)
-- [Project Quality Fundamentals](#project-quality-fundamentals)
-- [Documentation Best Practices](#documentation-best-practices)
-- [Marketing Strategies](#marketing-strategies)
-- [Community Building](#community-building)
-- [Case Studies](#case-studies)
+- [Why Stars Matter](./docs/why-stars-matter.md)
+- [Project Quality Fundamentals](./docs/project-quality.md)
+- [Documentation Best Practices](./docs/documentation-best-practices.md)
+- [Marketing Strategies](./docs/marketing-strategies.md)
+- [Community Building](./docs/community-building.md)
+- [Visual Content](./docs/visual-content.md)
+- [Case Studies](./docs/case-studies.md)
+- [Star Growth Strategies](./docs/star-growth-strategies.md)
+- [Star Acquisition Checklist](./docs/github-star-checklist-en.md)
+- [Star Growth Tracker](./docs/star-growth-tracker.md)
 - [Resources](#resources)
 
 ## Why Stars Matter
@@ -65,7 +69,7 @@ GitHub stars serve as social proof for your projects, indicating their usefulnes
 
 ## Case Studies
 
-(Coming soon)
+Check out our [detailed case studies](./docs/case-studies.md) of successful GitHub projects that have garnered thousands of stars, including analysis of their success factors and strategies.
 
 ## Resources
 
