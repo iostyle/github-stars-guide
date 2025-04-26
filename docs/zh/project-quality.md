@@ -116,4 +116,4 @@
 
 ## 案例研究
 
-参见[详细案例研究](../case-studies.md)。 
+参见[详细案例研究](./case-studies.md)。 
